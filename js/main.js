@@ -6,8 +6,8 @@ const sections = document.querySelectorAll('section');
 const options = 
   {
     root:null, 
-    // increase the root of bottom so before section come into veiw by 10px it will add active class
-     rootMargin:'0px 0px 10px 0px',
+    // increase the root of bottom so before section come into veiw by 0px it will add active class
+     rootMargin:'0px 0px 0px 0px',
      threshold:0.3
    };
 function head() {

@@ -39,6 +39,9 @@ h3{
     text-transform: uppercase;
     color:#333333;
 }
+section{
+    overflow:hidden;
+}
 section:not(.home){
     padding-block: 4em;
 }
